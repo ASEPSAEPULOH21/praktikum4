@@ -11,7 +11,7 @@ if a > b:
 elif b > a :
     print(f"terbesar adalah {b}")
 
-![image1.png](Shreenshot/Screenshot%20(34).png)
+![image1.png](shreenshot/Screenshot%20(34).png)
 
 latihan2
 membuat program untuk menurutkan data berdasarkan input sejumlah data (minimal 3 variable input atau lebih), kemudian menampilkan hasil dengan urut dari data kecil
@@ -36,7 +36,7 @@ else:
     else:
         print("Urutan Bilangan : ", c, a, b)
 
-![image2.png](Shreenshot/Screenshot%20(35).png)
+![image2.png](shreenshot/Screenshot%20(35).png)
 
 lab3
 latihan1
@@ -54,7 +54,7 @@ for i in range(10):
     stop+=1
     print("")
 
-![image3.png](Shreenshot/Screenshot%20(36).png)
+![image3.png](shreenshot/Screenshot%20(36).png)
 
 latihan2
 menampilkan n bilangan acak yang lebih kecil dari 0.5 dan nilai n diisi pada saat runtime menggunakan kombinasi while dan for 
@@ -66,4 +66,4 @@ for i in range(jumlah):
     print("Data Ke:", i)
     print("SELESAI")
 
-![image4.png](Shreenshot/Screenshot%20(37).png)
+![image4.png](shreenshot/Screenshot%20(37).png)
