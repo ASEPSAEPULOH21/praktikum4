@@ -1,4 +1,4 @@
-# praktikum4
+# praktikum 4
 lab2
 latihan1
 membuat program sederhana dengan menginput 2 buah bilangan untuk menentukan bilngan terbesar menggunakan statement if 
