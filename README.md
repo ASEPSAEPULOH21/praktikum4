@@ -36,7 +36,7 @@ else:
     else:
         print("Urutan Bilangan : ", c, a, b)
 
-![image.png](Shreenshot/Screenshot%20(35).png)
+![image2.png](Shreenshot/Screenshot%20(35).png)
 
 lab3
 latihan1
@@ -54,7 +54,7 @@ for i in range(10):
     stop+=1
     print("")
 
-![image.png](Shreenshot/Screenshot%20(36).png
+![image3.png](Shreenshot/Screenshot%20(36).png)
 
 latihan2
 menampilkan n bilangan acak yang lebih kecil dari 0.5 dan nilai n diisi pada saat runtime menggunakan kombinasi while dan for 
@@ -66,4 +66,4 @@ for i in range(jumlah):
     print("Data Ke:", i)
     print("SELESAI")
 
-![image.png](Shreenshot/Screenshot%20(37).png
+![image4.png](Shreenshot/Screenshot%20(37).png)
