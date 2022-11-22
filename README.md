@@ -10,7 +10,8 @@ if a > b:
     print(f"terbesar adalah {a}")
 elif b > a :
     print(f"terbesar adalah {b}")
-    ![image1.png](Shreenshot/Screenshot%20(34).png)
+
+![image1.png](Shreenshot/Screenshot%20(34).png)
 
 latihan2
 membuat program untuk menurutkan data berdasarkan input sejumlah data (minimal 3 variable input atau lebih), kemudian menampilkan hasil dengan urut dari data kecil
@@ -34,7 +35,8 @@ else:
         print("Urutan Bilangan : ", c, a, b)
     else:
         print("Urutan Bilangan : ", c, a, b)
-! [image.png](Shreenshot/Screenshot%20(35).png)
+
+![image.png](Shreenshot/Screenshot%20(35).png)
 
 lab3
 latihan1
@@ -51,7 +53,9 @@ for i in range(10):
     start+=1
     stop+=1
     print("")
-! [image.png](Shreenshot/Screenshot%20(36).png
+
+![image.png](Shreenshot/Screenshot%20(36).png
+
 latihan2
 menampilkan n bilangan acak yang lebih kecil dari 0.5 dan nilai n diisi pada saat runtime menggunakan kombinasi while dan for 
 program membuat dengan perulangan bertingkat (nested) kode sumber & keluaran (program menjalankan hasil)
@@ -61,4 +65,5 @@ for i in range(jumlah):
     i=random.uniform(0.0,0.5)
     print("Data Ke:", i)
     print("SELESAI")
-! [image.png](Shreenshot/Screenshot%20(37).png
+
+![image.png](Shreenshot/Screenshot%20(37).png
